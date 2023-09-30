@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Sci-Fi UI/Scenes/proyecto.unity
     guid: 7ad9e8d02ecec834d986e8f25171543c
   - enabled: 1
+    path: Assets/Sci-Fi UI/Scenes/mainscreen.unity
+    guid: 06db5c79ebb0f014c9c28df98172451b
+  - enabled: 1
     path: Assets/Sci-Fi UI/Scenes/UTEC.unity
     guid: 87986f97958f4314ab9c1a4fc9662e90
   m_configObjects:
