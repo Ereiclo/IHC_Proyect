@@ -27,7 +27,7 @@ public class SetNavigationTarget : MonoBehaviour
             lineToggle = !lineToggle;
         }
 
-        if( true ) {
+        if( lineToggle ) {
             NavMesh.CalculatePath(transform.position,navTargetObject.transform.position, NavMesh.AllAreas,path);
 
             line.SetPositions(path.corners);
